@@ -1,0 +1,5 @@
+<html><body>Hello Team,<br><br>
+EUI Dispatcher failed due to <b>"{0}"</b><br>Kindly resolve and try again!
+<br><br>
+**Note: This is an auto generated email.Kindly do not reply. <br><br> RPA Support <br> COE
+</body></html>

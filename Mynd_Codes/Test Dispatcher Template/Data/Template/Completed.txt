@@ -1,0 +1,4 @@
+<html><body>Hello Team,<br><br>
+EUI Dispatcher Completed Successfully.<br><br>
+**Note: This is an auto generated email.Kindly do not reply. <br><br> RPA Support <br> COE
+</body></html>
